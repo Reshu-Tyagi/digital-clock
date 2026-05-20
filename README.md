@@ -31,7 +31,7 @@ A simple and responsive Digital Clock built using HTML, Tailwind CSS, and JavaSc
 ##  Instructions to Use
 
 1. Clone the repository:
-   git clone https://github.com/Reshu-Tyagi/counter-app.git
+   git clone https://github.com/Reshu-Tyagi/digital-clock.git
    
 2. Open the project folder.
 
